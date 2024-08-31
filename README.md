@@ -22,7 +22,7 @@ To replicate this project, follow the steps below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CREDIGuard.git
+   git clone https://github.com/a-m-a-nkumar/CreditGuard.git
     ```
 2. Install the required dependencies:
 
@@ -38,7 +38,7 @@ To run the model training and evaluation:
 
 ```bash
 
-python crediguard.py
+python Amex_CrediGuard.ipynb
 ```
 ###Results
 
