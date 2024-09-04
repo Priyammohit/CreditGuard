@@ -32,7 +32,7 @@ To replicate this project, follow the steps below:
 ```
  3. Download and place the dataset (real_data_r3.xlsx) in the root directory.
 
-###Usage
+## Usage
 
 To run the model training and evaluation:
 
@@ -40,7 +40,7 @@ To run the model training and evaluation:
 
 python Amex_CrediGuard.ipynb
 ```
-###Results
+## Results
 
 The final model was tested on a hold-out dataset and evaluated on the following metrics:
 ```
@@ -49,7 +49,7 @@ The final model was tested on a hold-out dataset and evaluated on the following 
     Precision: 0.70
     Recall: 0.53
 ```
-###Conclusion
+## Conclusion
 
 CREDIGuard successfully identifies fraudulent credit card transactions with high precision and minimal impact on legitimate customers. The model is optimized for detecting fraudsters responsible for significant losses, contributing to enhanced risk management.
 
